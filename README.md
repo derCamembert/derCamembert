@@ -1,14 +1,17 @@
 # ✩₊˚.⋆☾⋆⁺₊✧ Welcome to @derCamembert's profile
 
-/ᐠ - ˕ -マ Ⳋ meow ~
+/ᐠ - ˕ -マ Ⳋ <( meow ~ )
+
+![ai_h](https://github.com/derCamembert/derCamembert/assets/125645358/8c7acb04-7a5d-476c-b2a1-0ba399e8e833)
+
 
 - 👋 Hi, I’m @derCamembert
 - 👀 I’m interested in ... you ;) and Git
-- 🌱 I’m currently learning ... Git
-- 💞️ I’m looking to collaborate on ... everything
+- 🌱 I’m currently learning ... Git braaaaaaaaaaaaaaaaaaansches
 - 📫 How to reach me ... @dercamembert on dc
-- 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... I like cheese :3
+
+
 
 <!---
 derCamembert/derCamembert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
