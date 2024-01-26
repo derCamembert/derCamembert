@@ -47,19 +47,20 @@ You can click the Preview link to take a look at your changes.
  <p align="right">
  <img align="right" height:75%; width:75; src="https://github.com/derCamembert/derCamembert/assets/125645358/3a046224-26fb-4d6f-b8b2-a831724f3322">
 
+My favourite....
 
+- Animal: Shark! ๑☆❕☆🦈☆๑
 
-- 👋 Hi, I’m @derCamembert
+- Colour: White 𓂃 ࣪˖ ₊˚☁️ ཐིཋྀ 🤍₊˚ ࣪˖𓂃 
 
-- 👀 I’m interested in ... you ;) and Git
+- Food: Cheese 🧀
 
-- 🌱 I’m currently learning ... Git braaaaaaaaaaaaaaaaaaansches
+- Language: Java ♡༻❀ ☕ ❀༺♡
 
-- 📫 How to reach me ... @dercamembert on dc
+- Season: Winter ⋆꙳❅*‧ ☃️‧*❆ ₊⋆
 
-- ✉️ vonkrc20@htl-kaindorf.at
+- Subject: Math ₍ ᐢ. ༝ .ᐢ₎
 
-- ⚡ Fun fact: ... I like cheese :3
 
 
 
