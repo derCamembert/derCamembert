@@ -53,9 +53,9 @@ I love....
 
 - JAVA ♡༻❀ ☕ ❀༺♡
 
-- NOCHMAL SYP ( ⋆꙳❅*‧ ☃️‧*❆ ₊⋆
+- AWS Korses ⋆꙳❅*‧ ☃️‧*❆ ₊⋆
 
-- Git bransches die sind ja mal extrem cool genau wie AWS Korses ₍ ᐢ. ༝ .ᐢ₎
+- Git bransches die sind ja mal extrem cool  ₍ ᐢ. ༝ .ᐢ₎
 
 
 
