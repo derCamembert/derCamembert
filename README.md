@@ -43,19 +43,19 @@ You can click the Preview link to take a look at your changes.
  <p align="right">
  <img align="right" height:75%; width:75; src="https://github.com/derCamembert/derCamembert/assets/125645358/3a046224-26fb-4d6f-b8b2-a831724f3322">
 
-My favourite....
+I love....
 
-- Animal: Shark! ๑☆❕☆🦈☆๑
+- GIT ๑☆❕☆🦈☆๑
 
-- Colour: White 𓂃 ࣪˖ ₊˚☁️ ཐིཋྀ 🤍₊˚ ࣪˖𓂃 
+- REACT 𓂃 ࣪˖ ₊˚☁️ ཐིཋྀ 🤍₊˚ ࣪˖𓂃 
 
-- Food: Cheese 🧀
+- SYP 🧀
 
-- Language: Java ♡༻❀ ☕ ❀༺♡
+- JAVA ♡༻❀ ☕ ❀༺♡
 
-- Season: Winter ⋆꙳❅*‧ ☃️‧*❆ ₊⋆
+- NOCHMAL SYP ( ⋆꙳❅*‧ ☃️‧*❆ ₊⋆
 
-- Subject: Math ₍ ᐢ. ༝ .ᐢ₎
+- Git bransches die sind ja mal extrem cool genau wie AWS Korses ₍ ᐢ. ༝ .ᐢ₎
 
 
 
