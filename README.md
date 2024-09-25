@@ -21,10 +21,6 @@
 
 - 🌱 I’m currently learning ... Git braaaaaaaaaaaaaaaaaaansches
 
-- 📫 How to reach me ... @dercamembert on dc
-
-- ✉️ vonkrc20@htl-kaindorf.at
-
 - ⚡ Fun fact: ... I like cheese :3
 
 <br><br><br><br><br><br>
@@ -55,7 +51,7 @@ I love....
 
 - AWS Korses ⋆꙳❅*‧ ☃️‧*❆ ₊⋆
 
-- Git bransches die sind ja mal extrem cool  ₍ ᐢ. ༝ .ᐢ₎
+- Git bransches (vor allem für Videos)  ₍ ᐢ. ༝ .ᐢ₎
 
 <br>
 
