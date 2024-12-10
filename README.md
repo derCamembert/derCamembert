@@ -3,6 +3,7 @@
 
 /ᐠ - ˕ -マ Ⳋ <( meow ~ )
 
+# <p> <emphasis> S C H O O L </emphasis> <br> </p>
 <p>
 <emphasis> H T B L A &nbsp K A I N D O R F.
 <br> C O D I N G  &nbsp; A N D &nbsp; C Y B E R &nbsp; S E C U R I T Y.</emphasis>
@@ -12,18 +13,17 @@
 <div>
 <img align="left" height:75%; width:75; src="https://github.com/derCamembert/derCamembert/assets/125645358/8c7acb04-7a5d-476c-b2a1-0ba399e8e833">
 
- <p align="right">
+   👋 Hi, I’m @derCamembert
+     
+   👀 I’m interested in ... you ;) and Git (Lab) of curse
+      
+   🌱 I’m currently learning ... Git braaaaaaaaaaaaaaaaaaansches<br>
+      
+   ⚡ Fun fact: ... I like cheese :3
+  
 
 
-- 👋 Hi, I’m @derCamembert
-
-- 👀 I’m interested in ... you ;) and Git
-
-- 🌱 I’m currently learning ... Git braaaaaaaaaaaaaaaaaaansches
-
-- ⚡ Fun fact: ... I like cheese :3
-
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 </div>
 
@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 
 I love....
 
-- GIT ๑☆❕☆🦈☆๑
+- GIT ๑☆❕🦈☆๑
 
 - REACT 𓂃 ࣪˖ ₊˚☁️ ཐིཋྀ 🤍₊˚ ࣪˖𓂃 
 
@@ -51,7 +51,7 @@ I love....
 
 - AWS Korses ⋆꙳❅*‧ ☃️‧*❆ ₊⋆
 
-- Git bransches (vor allem für Videos)  ₍ ᐢ. ༝ .ᐢ₎
+- Git bransches (für Youtube Video Vörschn Condroll)
 
 <br>
 
