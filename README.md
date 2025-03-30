@@ -15,12 +15,10 @@
 
    👋 Hi, I’m @derCamembert
      
-   👀 I’m interested in ... you ;) and Git (Lab) of curse
+   👀 I’m interested in ... Git (Lab) of curse
       
    🌱 I’m currently learning ... Git braaaaaaaaaaaaaaaaaaansches<br>
-      
-   ⚡ Fun fact: ... I like cheese :3
-  
+        
 
 
 <br><br><br><br><br><br><br><br>
